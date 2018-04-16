@@ -1,4 +1,5 @@
 .container-fluid {
 	text-align: center;
 	background-image: url("images/bg2.jpg");
+	padding: 40px;
 }
