@@ -50,4 +50,28 @@ h2 {
 	overflow: hidden;
 	margin-right: 20px;
 	margin-bottom: 20px;
+	text-align: center;
+}
+
+.camara-footer {
+	text-align: center;
+}
+
+button {
+	margin-bottom: 10px;
+}
+
+.camara-footer {
+	border: 2px solid #ededed;
+	padding: 1vw;
+}
+
+footer {
+	text-align: center;
+	background-color: #ededed;
+	padding: 1vw;
+}
+
+footer p {
+	margin-bottom: 0px;
 }
