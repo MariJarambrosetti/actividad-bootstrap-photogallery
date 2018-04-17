@@ -3,9 +3,10 @@
 	background-image: url("images/bg2.jpg");
 	background-size: cover;
 	color: white;
-	padding: 100px;
-	padding-right: 24em;
-	padding-left: 24em;
+	padding: 6em;
+	padding-right: 30vw;
+	padding-left: 30vw;
+	margin-bottom: 40px;
 }
 
 .header a {
@@ -28,4 +29,24 @@
 .glyphicon {
 	font-size: 25px;
 	color: black;
+}
+
+.galeria {
+	overflow: hidden;
+}
+
+h2 {
+	margin: 0px;
+}
+
+.cuadros p , h3 {
+	text-align: center;
+}
+
+.cuadros {
+	border: 10px solid #ededed;
+	padding: 0px;
+	border-radius: 30px;
+	overflow: hidden;
+	margin-right: 20px;
 }
