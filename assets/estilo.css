@@ -1,4 +1,4 @@
-.col-xs-12 {
+.header {
 	text-align: center;
 	background-image: url("images/bg2.jpg");
 	background-size: cover;
@@ -8,7 +8,7 @@
 	padding-left: 24em;
 }
 
-.col-xs-12 a {
+.header a {
  	text-decoration: none;
  	color: black;
  	background-color: white;
@@ -17,10 +17,15 @@
  	margin-top: 10px;
 }
 
-.col-xs-12 p {
+.header p {
 	margin-bottom: 30px;
 }
 
 .navbar-default {
 	margin-bottom: 0px;
+}
+
+.glyphicon {
+	font-size: 25px;
+	color: black;
 }
