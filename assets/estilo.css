@@ -1,5 +1,26 @@
-.container-fluid {
+.col-xs-12 {
 	text-align: center;
 	background-image: url("images/bg2.jpg");
-	padding: 40px;
+	background-size: cover;
+	color: white;
+	padding: 100px;
+	padding-right: 24em;
+	padding-left: 24em;
+}
+
+.col-xs-12 a {
+ 	text-decoration: none;
+ 	color: black;
+ 	background-color: white;
+ 	border-radius: 6px;
+ 	padding: 12px;
+ 	margin-top: 10px;
+}
+
+.col-xs-12 p {
+	margin-bottom: 30px;
+}
+
+.navbar-default {
+	margin-bottom: 0px;
 }
